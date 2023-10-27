@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/xanzy/go-gitlab"
+	"github.com/Lt0/go-gitlab"
 )
 
 // webhook is a HTTP Handler for Gitlab Webhook events.

@@ -19,7 +19,7 @@ package main
 import (
 	"log"
 
-	"github.com/xanzy/go-gitlab"
+	"github.com/Lt0/go-gitlab"
 )
 
 func impersonationExample() {

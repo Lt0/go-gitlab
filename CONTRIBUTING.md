@@ -4,7 +4,7 @@ We want to make contributing to this project as easy as possible.
 
 ## Reporting Issues
 
-If you have an issue, please report it on the [issue tracker](https://github.com/xanzy/go-gitlab/issues).
+If you have an issue, please report it on the [issue tracker](https://github.com/Lt0/go-gitlab/issues).
 
 When you are up for writing a PR to solve the issue you encountered, it's not
 needed to first open a separate issue. In that case only opening a PR with a
@@ -35,7 +35,7 @@ easier to find things.
 
 ### Setting up your local development environment to Contribute to `go-gitlab`
 
-1. [Fork](https://github.com/xanzy/go-gitlab/fork), then clone the repository.
+1. [Fork](https://github.com/Lt0/go-gitlab/fork), then clone the repository.
    ```sh
    git clone https://github.com/<your-username>/go-gitlab.git
    # or via ssh
